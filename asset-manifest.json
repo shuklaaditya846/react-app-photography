@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-app-photography/static/css/main.82db4f39.chunk.css",
-    "main.js": "/react-app-photography/static/js/main.cf7098e1.chunk.js",
-    "main.js.map": "/react-app-photography/static/js/main.cf7098e1.chunk.js.map",
+    "main.js": "/react-app-photography/static/js/main.c0612cf5.chunk.js",
+    "main.js.map": "/react-app-photography/static/js/main.c0612cf5.chunk.js.map",
     "runtime-main.js": "/react-app-photography/static/js/runtime-main.39212070.js",
     "runtime-main.js.map": "/react-app-photography/static/js/runtime-main.39212070.js.map",
     "static/js/2.9ca53661.chunk.js": "/react-app-photography/static/js/2.9ca53661.chunk.js",
@@ -22,12 +22,13 @@
     "static/media/6.c5ebe62c.jpg": "/react-app-photography/static/media/6.c5ebe62c.jpg",
     "static/media/7.bd4ee028.jpg": "/react-app-photography/static/media/7.bd4ee028.jpg",
     "static/media/8.84331fbf.jpg": "/react-app-photography/static/media/8.84331fbf.jpg",
-    "static/media/9.e1d963ac.jpg": "/react-app-photography/static/media/9.e1d963ac.jpg"
+    "static/media/9.e1d963ac.jpg": "/react-app-photography/static/media/9.e1d963ac.jpg",
+    "static/media/hero.699c1190.jpeg": "/react-app-photography/static/media/hero.699c1190.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.39212070.js",
     "static/js/2.9ca53661.chunk.js",
     "static/css/main.82db4f39.chunk.css",
-    "static/js/main.cf7098e1.chunk.js"
+    "static/js/main.c0612cf5.chunk.js"
   ]
 }
